@@ -8,11 +8,11 @@ y crear las siguientes funciones para el procesamiento de su informacion
 
 tiendas = {
     'tienda1': {
-        'nombre': 'Tienda A',
+        'nombre': 'Tienda Amadeo',
         'horario': '9:00 - 18:00'
     },
     'tienda2': {
-        'nombre': 'Tienda B',
+        'nombre': 'Tienda Barrabas',
         'horario': '10:00 - 19:00'
     },
     'tienda3': {
@@ -20,13 +20,14 @@ tiendas = {
         'horario': '8:30 - 17:30'
     },
     'tienda4': {
-        'nombre': 'Tienda D',
+        'nombre': 'Tienda Deseo',
         'horario': '11:00 - 20:00'
     },
     'tienda5': {
-        'nombre': 'Tienda E',
+        'nombre': 'Tienda Esperanza',
         'horario': '9:30 - 18:30'
     }
 }
+
 
 
