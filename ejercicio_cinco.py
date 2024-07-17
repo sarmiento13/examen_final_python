@@ -15,5 +15,5 @@ def datos_personales(nombre, apellido, edad, programa_estudio, semestre):
     
     return alumno
 
-resultado = datos_personales("jose", "alvarez", "30", "APSTI", "III")
+resultado = datos_personales("william", "sarmiento", "24", "APSTI", "III")
 print(resultado) 
